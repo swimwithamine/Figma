@@ -7,7 +7,7 @@
     font-family: 'Poppins', sans-serif;
 }
 body{
-    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("../backgroud.png/pap.jpg");
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("./backgroud.png/pap.jpg");
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -95,7 +95,7 @@ body{
 }
 @media only screen and (max-width:900px){
     body{
-        background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)) ,url(../backgroud.png/phototele.jpg)
+        background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)) ,url(./backgroud.png/phototele.jpg)
     }
     .nav-button{
         display: none;
