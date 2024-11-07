@@ -13,7 +13,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url(../backgroud.png/team.jpg);
+  background-image: url(./backgroud.png/team.jpg);
   background-size: cover;
   background-position: center;
   position: relative;
